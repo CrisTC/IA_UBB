@@ -8,7 +8,7 @@
     "MarkDown4": 56,
     "MarkDown5": 38,
     "CPI": 200,
-    "Unemployment" 6:
+    "Unemployment": 6
   },
   {
     "Temperature": 90,
@@ -19,7 +19,7 @@
     "MarkDown4": 21,
     "MarkDown5": 89,
     "CPI": 198,
-    "Unemployment" 5:
+    "Unemployment": 5
   },
   {
     "Temperature": 100,
@@ -30,7 +30,7 @@
     "MarkDown4": 20,
     "MarkDown5": 15,
     "CPI": 200,
-    "Unemployment" 7:
+    "Unemployment": 7
   },
   {
     "Temperature": 104,
@@ -41,6 +41,6 @@
     "MarkDown4": 54,
     "MarkDown5": 32,
     "CPI": 210,
-    "Unemployment" 7:
+    "Unemployment": 7
   },
 ]
