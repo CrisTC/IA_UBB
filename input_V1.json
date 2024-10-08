@@ -1,0 +1,46 @@
+[
+  {
+    "Temperature": 80,
+    "Fuel_Price": 3,
+    "MarkDown1": 34,
+    "MarkDown2": 51,
+    "MarkDown3": 89,
+    "MarkDown4": 56,
+    "MarkDown5": 38,
+    "CPI": 200,
+    "Unemployment" 6:
+  },
+  {
+    "Temperature": 90,
+    "Fuel_Price": 2.5,
+    "MarkDown1": 76,
+    "MarkDown2": 97,
+    "MarkDown3": 34,
+    "MarkDown4": 21,
+    "MarkDown5": 89,
+    "CPI": 198,
+    "Unemployment" 5:
+  },
+  {
+    "Temperature": 100,
+    "Fuel_Price": 4,
+    "MarkDown1": 82,
+    "MarkDown2": 146,
+    "MarkDown3": 153,
+    "MarkDown4": 20,
+    "MarkDown5": 15,
+    "CPI": 200,
+    "Unemployment" 7:
+  },
+  {
+    "Temperature": 104,
+    "Fuel_Price": 2,
+    "MarkDown1": 34,
+    "MarkDown2": 57,
+    "MarkDown3": 32,
+    "MarkDown4": 54,
+    "MarkDown5": 32,
+    "CPI": 210,
+    "Unemployment" 7:
+  },
+]
