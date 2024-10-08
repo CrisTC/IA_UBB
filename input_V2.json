@@ -33,7 +33,7 @@
     "Type": 3,
     "Size": 151315,
     "Event_Type": 3,
-    "Date_codificado":2
+    "Date_codificado": 2
   },
   {
     "Store": 50,
@@ -53,4 +53,5 @@
     "Event_Type": 5,
     "Date_codificado":7
   }
+  
 ]
